@@ -4,8 +4,8 @@
     
   </defs>
 
-  <text x="10" y="96" font-family="Fredoka, 'Arial Rounded MT Bold', sans-serif" font-weight="700"
-        font-size="104" class="ink" fill="#2B1B3D" letter-spacing="2">YAJF</text>
-  <text x="14" y="136" font-family="Nunito, sans-serif" font-weight="800" font-size="20"
+  <text x="205" y="96" text-anchor="middle" font-family="Fredoka, 'Arial Rounded MT Bold', sans-serif" font-weight="700"
+        font-size="104" class="ink" fill="#2B1B3D" letter-spacing="0">YAJF</text>
+  <text x="205" y="136" text-anchor="middle" font-family="Nunito, sans-serif" font-weight="800" font-size="20"
         fill="#FF7A1A" letter-spacing="1.5">YET ANOTHER JUICE FRAMEWORK</text>
 </svg>
